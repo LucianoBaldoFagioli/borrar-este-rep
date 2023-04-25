@@ -11,4 +11,8 @@ esto vamos a seguir la siguiente metodologia:
 
 ## Desarrollo
 
+Conforme a el objetivo del trabajo, vamos a blabalba.
+
 ## Conclusión
+
+
