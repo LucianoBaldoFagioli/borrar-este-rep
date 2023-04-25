@@ -13,6 +13,10 @@ esto vamos a seguir la siguiente metodologia:
 
 Conforme a el objetivo del trabajo, vamos a blabalba.
 
+en primer lugar blaba.
+
+en segundo blalbla.
+
 ## Conclusión
 
 
